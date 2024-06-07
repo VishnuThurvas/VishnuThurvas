@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I'm currently immersed in the *fascinating realm of Problem Sol.* 🚀
 
-- 👨‍💻 All of my projects are available at [www.github.com/magical-king03](www.github.com/VishnuThurvas)
+- 👨‍💻 All of my projects are available at (www.github.com/VishnuThurvas)
 
 - 📫 You can reach me through *vishnuthurvas@gmail.com*
 
