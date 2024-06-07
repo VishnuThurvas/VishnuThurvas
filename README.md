@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently learning  *Full Stack Web Developement*
 
-- 🌱 I'm currently immersed in the *fascinating realm of Problem Sol.* 🚀
+- 🌱 I'm currently immersed in the *fascinating realm of Problem Solving.* 🚀
 
 - 👨‍💻 All of my projects are available at (www.github.com/VishnuThurvas)
 
