@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate  Cyber Security student from India.</h3>
 <br>
 
-- 🔭 I’m currently learning  *Full Stack Web Developement*
+- 🔭 I’m currently learning *DSA and Web Designing*
 
 - 🌱 I'm currently immersed in the *fascinating realm of Problem Solving.* 🚀
 
-- 👨‍💻 All of my projects are available at (www.github.com/VishnuThurvas)
+- 👨‍💻 I'm currently pursing my B.Tech in *R.M.K College of Engineering and Technology*.
 
 - 📫 You can reach me through *vishnuthurvas@gmail.com*
 
