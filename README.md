@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate  Cyber Security student from India.</h3>
 <br>
 
-- 🔭 I’m currently learning *DSA and Web Designing*
+- 🔭 I’m currently learning *DSA and CyberSecurity*
 
+- 🤖 I'm also a *CTF player*
+  
 - 🌱 I'm currently immersed in the *fascinating realm of Problem Solving.* 🚀
 
 - 👨‍💻 I'm currently pursing my B.Tech in *R.M.K College of Engineering and Technology*.
