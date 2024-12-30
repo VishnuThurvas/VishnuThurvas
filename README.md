@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate  Cyber Security student from India.</h3>
 <br>
 
-- 🔭 I’m currently learning *DSA and CyberSecurity*
+- 🔭 I’m currently learning *OpenCV and CyberSecurity*
 
 - 🤖 I'm also a *CTF player*
   
